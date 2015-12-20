@@ -1,0 +1,58 @@
+* { box-sizing: border-box; }
+body {
+  background-color: lightyellow;
+  font-family: 'Playfair Display', serif;
+  font: bold;
+  border: 10px gray;
+  border-style: double;
+  border align-content: space-between;
+  letter-spacing: 0.5px;
+  word-spacing: 1px;
+  text-align: center;
+  width: 90%;
+  margin: auto;
+  }
+nav li {
+  float: left;
+  text-align: center;
+  border-bottom: solid;
+  border-color: gray;
+  width: 25%;
+  padding-top: 4rem;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+  text-align: center;
+}
+h4 {
+  padding-top: 2rem;
+}
+h2 {
+  padding-top: 2rem;
+}
+img {
+    text-align: center;
+    opacity: 0.3;
+    filter: alpha(opacity=20);
+    padding-left: 4rem;
+    padding-right: 4rem;
+    }
+img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100);
+    }
+    a:link {
+    color:blue;
+    text-decoration: none; 
+    }
+           
+footer {
+    background-color: lightgray;
+    color:black;
+    clear:both;
+    text-align:center;
+    letter-spacing: 0.5px;
+      }
+  

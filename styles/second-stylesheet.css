@@ -1,0 +1,27 @@
+* { box-sizing: border-box; }
+
+body {
+  text-align: center;
+  background-color: lightyellow;
+  font-family: 'PT Sans', sans-serif;
+  font: bold;
+}
+li {
+  text-decoration: none;
+  list-style: none;
+}
+nav li {
+  float: left;
+  text-align: center;
+  border-bottom: solid;
+  border-color: gray;
+  width: 25%;
+  padding-top: 4rem;
+}
+footer {
+    background-color: lightgray;
+    color:black;
+    clear:both;
+    text-align:center;
+    letter-spacing: 0.5px;
+      }
